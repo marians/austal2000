@@ -1,0 +1,31 @@
+# default strings for TalIo1
+# last change 2008-07-28 lj
+#
+_internal_error_=Internal error!
+_no_memory_=No memory!
+_name_$_too_long_=Name \"%s\" too long!
+_invalid_format_$_=Invalid format >>>%s<<< !
+_cant_read_$$_=Can't read \"%s\" from \"%s\"!
+_invalid_$_=Invalid value for \"%s\"!
+_cant_register_$_=Can't register variable \"%s\"!
+_reading_$$_$$_=Reading \"%s\" at position %ld, requested time is [%s,%s]
+_closing_$$_=Closing \"%s\" at position %ld
+_time_dependent_=Time dependent parameters:
+_undefined_parameters_=Undefined parameter values!
+_undefined_interval_=Undefined time interval!
+_cant_open_$_=Can't open \"%s\"!
+_invalid_structure_=Invalid file structure!
+_no_header_=Tab header not found!
+_no_t1_=No column T1 in tab header!
+_no_t2_=No column T2 in tab header!
+_cant_position_$$_=Can't position file \"%s\" to %ld!
+_invalid_tag_=Invalid tag found in \"%s\"!
+_undefined_t1_=Time T1 undefined!
+_invalid_t1_=Value of time T1 invalid!
+_undefined_t2_=Time T2 undefined!
+_invalid_t2_=Value of time T2 invalid!
+_cant_close_$_=Can't close file \"%s\"!
+_cant_read_$_=Can't read line from time series \"%s\"!
+_missing_name_=Name missing!
+_name_count_$_=More than %d names in header!
+

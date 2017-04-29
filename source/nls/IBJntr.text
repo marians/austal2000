@@ -1,0 +1,46 @@
+# default strings for IBJntr
+# last change 2008-07-28 lj
+#
+_cant_open_$_=Can't open file \"%s\"!
+_cant_allocate_=Can't allocate memory!
+_cant_read_line_$_=Can't read line %d!
+_cant_set_data_=Can't set data!
+_nodata_$$_=NODATA in row %d, column %d!
+_cant_read_header_=Can't read header parameters!
+_cant_read_floats_$$$$_=Can't read floats at row %d (%d,%d,%d)!
+_cant_set_delta_=Can't set delta!
+_inconsistent_number_lines_$_=Inconsistent number of lines (%d instead of %d)!\n(dd=%1.1f, x0=%1.1f, x1=%1.1f, y0=%1.1f, y1=%1.1f)
+_cant_read_file_$_=Can't read in file \"%s\"!
+_file_$_not_2d_=File \"%s\" is not 2-dimensional!
+_must_be_float_=Elements have to be of type float (size=4)!
+_missing_delta_=Parameter \"delta\" missing in file header!
+_missing_xmin_=Parameter \"xmin\" missing in file header!
+_missing_ymin_=Parameter \"ymin\" missing in file header!
+_no_output_=Output data not defined!
+_cant_create_array_=Can't create array!
+_cant_write_file_$_=Can't write file \"%s\"!
+_help1_=Net transformations for surface definition files\n
+_help2_$_=Usage: %s <file> [options]\n
+_help3_=<file>  input file of type XYZ/DMN/ArcInfo\n
+_help4_=options:\n
+_help5_=  -i              information about <file> (no transformation)\n
+_help6_=  -j<i,j,k>       column indices for input of type XYZ (default:1,2,3)\n
+_help7_=  -x<number>      new xmin (absolute or relative to refx, m)\n
+_help8_=  -y<number>      new ymin (absolute or relative to refy, m)\n
+_help9_=  -g<refx>,<refy>[,<ggcs>] new reference point (m)\n
+_help10_=  -d<delta>       new delta (m)\n
+_help11_=  -n<nx,ny>       new number of grid cells\n
+_help12_=  -o<file>        output file name (default: srfa000.dmna in input dir)\n
+_help13_=  -s<sequ>        output sequence (default: j-:i+)\n
+_help14_=  -m<mode>        output mode (binary/text, default: text)\n
+_main1_$$$_=%s, version %s %s\n
+_main2_=Net transformations for surface definition files\n
+_main3_=Copyright (c) Janicke Consulting, 88662 Ueberlingen, Germany, 2004-2011\n
+_$_main4_=%s comes with ABSOLUTELY NO WARRANTY\n
+_$_main5_=%s is free software under the GNU PUBLIC LICENCE\n\n
+_input_$_not_read_=Input file \"%s\" not read in.\n
+_input_$_=Input file \"%s\" 
+_output_$_=\nOutput file \"%s\" (DMN)\n
+_program_finished_$_=Program %s finished.\n
+_problems_nls_$_=Problems observed with native language support \"%s\"\n
+

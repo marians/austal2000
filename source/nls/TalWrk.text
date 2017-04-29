@@ -1,0 +1,57 @@
+# default strings for TalWrk
+# last change 2013-07-08 uj
+#
+_negative_wdep_=Negative deposition probability!
+_error_calculating_valid_=Error calculating valid fraction!
+_no_source_data_=Data for source not available!
+_cant_calculate_plume_rise_=Can't calculate plume rise!
+_loc_$_=LOC=(%d,%d,%d)/(%d,%d), A=(%5.3f,%5.3f,%5.3f)
+_cant_locate_=Can't locate particle!
+_cant_shift_=Can't shift particle out of body!
+_no_memory_=No memory available!
+_no_handle_=No particle handle available!
+_current_interval_$$_=\nCurrent time interval: [%ld, %ld]\n
+_forgotten_particle_=Forgotten particle!
+_invalid_position_=Invalid particle position!
+_cant_interpolate_=Can't interpolate fields!
+_no_plume_rise_=Can't calculate plume rise!
+_no_transfer_data_=No transfer data!
+_index_$$$_=Index error (%d,%d,%d)!
+_index_$$_=Index error (%d,%d)!
+_invalid_source_count_$_=Invalid source count %d!
+_inside_building_$$$_=Particle created inside body.\n    (position x=%1.3f, y=%1.3f, z=%1.3f)\n    Overlap of sources and buildings must be avoided!\n
+_moved_inside_=Particle moved inside body!
+_progress_$_=Progress: %5.1f %%\r
+_no_grid_data_=Can't get grid data!
+_no_vertical_grid_=Can't get vertical grid!
+_no_general_parameters_=Can't get general parameters!
+_no_model_field_$_=Can't get model field %s!
+_no_particle_parameters_$_=Can't get particle parameter %s!
+_no_depo_prob_$_=Can't get deposition probability %s!
+_invalid_mode_$_=Invalid profile mode = %d!
+_improper_model_$_=Improper structure of model field %s!
+_improper_structure_$_=Improper structure of %s!
+_no_transfer_$_=Can't get transfer array %s!
+_improper_transfer_$_=Improper structure of transfer array %s!
+_cant_get_plume_rise_=Can't get plume rise array!
+_no_dose_$_=Can't get dose array %s!
+_dose_$$$_parm_$$_=Dose array %s at [%s,%s], but parameter at [%s,%s]!
+_invalid_interval_$$_=Invalid simulation interval [%s,%s]!
+_no_boundaries_=Can't get array of boundaries!
+_reflection_$_$$$_=Reflection at z=%1.0f, but zmax(%d,%d)=%1.0f !
+_zscl_sscl_0_=Zscl and Sscl must be 0!
+_cant_detach_=Can't detach array!
+_cant_attach_=Can't attach array!
+_creator_$_=Can't define creator for %s!
+_cant_init_servers_=Can't initialize other server!
+_moving_$$$_=Moving particles for %s [%s,%s]
+_missing_data_=No data specified!
+_missing_time_=No time specified!
+_cant_change_creator_$_=Can't change creator for %s!
+_invalid_times_$$$_=Invalid times in %s [%s,%s]!
+_no_particles_$_=Particle array %s not available!
+_no_parameters_=Can't define parameters!
+_cant_build_$$$_=Can't build %s [%s,%s]!
+_cant_update_$$$_=Can't update particle array %s at [%s,%s]!
+_chemical_reactions_too_fast_=Chemical reactions too fast for this time step!
+

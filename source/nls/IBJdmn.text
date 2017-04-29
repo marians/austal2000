@@ -1,0 +1,79 @@
+# default strings for IBJdmn
+# last change 2008-07-28 lj
+#
+_cant_get_value_$_=Can't get value of %s! 
+_improper_value_$$$_=Improper value of %s!\n    [required: %14.6e, found: %14.6e]
+_cant_allocate_format_table_$_=Can't allocate format table (%d entries)!
+_invalid_format_string_=Invalid format string!
+_in_input_file_=in input file
+_inconsistent_element_size_$$_=Inconsistent element size: format %d, should be %d!
+_print1_table_$_=Table of formats %s:\n
+_print2_table_=Nr. frm  Name      Ld   Lf     Factor   Output   |   Scan | Print\n
+_print3_table_$$$$$$$$$_=%2d: (%c) %10s %3d %3d %10.3le %10s | %6s | %s\n
+_cant_allocate_$_=Can't allocate %d bytes!
+_cant_write_$_=Can't write file \"%s\"!
+_cant_reopen_=Can't reopen stderr!
+_cant_get_subarray_$_=Can't get subarray with sequence \"%s\"!
+_cant_open_descriptor_$_=Can't open descriptor file \"%s\"!
+_cant_write_header_$_=Can't write header to file\"%s\"!
+_cant_open_data_$_=Can't open data file \"%s\"!
+_index_error_$_=Index error writing to file \"%s\"!
+_cant_write_data_$_=Can't write data to file \"%s\"!
+_invalid_format_$_=Invalid format \"%s\"!
+_unknown_locale_$_=Unknown locale \"%s\"!
+_cant_write_without_format_$_=Can't write in text mode without format for recsize=%d bytes!
+_cant_create_format_table_=Can't create format table!
+_internal_error_=Internal error!
+_cant_open_array_file_$_=Can't open array file \"%s\"!
+_index_error_reading_$_=Index error reading from file \"%s\"!
+_cant_read_data_$_=Can't read data from file \"%s\"!
+_invalid_number_dimension_$$_=Invalid number (%d) of dimensions in file \"%s\"!
+_missing_bounds_$_=Missing bounds for file \"%s\"!
+_cant_create_array_$_=Can't create array for file \"%s\"!
+_invalid_selection_$$_=Invalid selection \"%s\" for file \"%s\"!
+_eof_$_=Unexpected end of file \"%s\"!
+_cant_read_item_$$_=Can't read item in line %d, file \"%s\"!
+_missing_size_$_=Missing parameter \"size\" in file \"%s\"!
+_missing_dims_$_=Missing parameter \"dims\" in file \"%s\"!
+_buffer_overflow_$$_=Buffer overflow in line %d, file \"%s\"!
+_cant_read_array_file_$_=Can't read array file \"%s\"!
+_unknown_locale_$_file_$_=Unknown locale \"%s\" in file \"%s\"!
+_cant_read_compressed_$_=Can't read compressed data from file \"%s\"!
+_cant_tokenize_$$_=Can't tokenize line %d in file \"%s\"!
+_small_buffer_$_=Buffer size (buff=%d) too small to read entire string!
+_cant_define_mapping_$_=Can't define mapped pointer array (file \"%s\")!
+_cant_read_file_$_=Can't read file \"%s\"!
+_improper_dimension_=Unusable file dimension (required: 2D or 3D with k.low == k.hgh)!
+_cant_analyse_format_$_=Can't analyse format \"%s\"!
+_invalid_element_size_=Invalid element size (must be 4)!
+_invalid_data_type_=Invalid data type (must be float)!
+_cant_open_write_$_=Can't open \"%s\" for writing!
+_no_format_=Can't get data format!
+_help1_=Usage: IBJdata <path> [<options>]\n
+_help2_=<path>   : working directory\n
+_help3_=<options>:\n
+_help4_=  -a<scale>   scaling factor\n
+_help5_=  -c<cmpr>    compression level: 0..9\n
+_help6_=  -d<outd>    name of output data file\n
+_help7_=  -f<form>    format of output data\n
+_help8_=  -i<input>   name of input file\n
+_help9_=  -l<loc>    \"C\" or \"german\"\n
+_help10_=  -m<mode>   \"binary\" or \"text\"\n
+_help11_=  -o<out>     name of ouput file\n
+_help12_=  -p          print output on screen\n
+_help13_=  -s<sequ>    index order in output data\n
+_help14_=  -t<zone>    time zone as GMT[+|-]hh:mm\n
+_help15_=  -u<opt>     use these options [acmst] from input for output\n
+_main1_$$_=IBJdata, version %s %s\n
+_main2_=Input and output of data arrays\n
+_main3_=Copyright (c) Janicke Consulting, 88662 Ueberlingen, Germany, 2004-2011\n
+_$_main4_=%s comes with ABSOLUTELY NO WARRANTY\n
+_$_main5_=%s is free software under the GNU PUBLIC LICENCE\n\n
+_unknown_option_$_=Unknown option \"%s\"!\n
+_cant_open_log_=Can't open log-file!\n
+_finished_=Finished
+_main_no_input_=No input file!
+_main_cant_create_date_=Can't create data!
+_main_cant_write_file_$_=Can't write file \"%s\"!
+_problems_nls_$_=Problems observed with native language support \"%s\"\n
+

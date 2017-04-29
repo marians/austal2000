@@ -1,0 +1,18 @@
+# default strings for TalCfg.c
+# last change: 2011-12-13 lj
+#
+_language_=en
+_dep_string_=dep
+_dry_string_=dry
+_wet_string_=wet
+_day_string_=d
+_ind_string_=i
+_add_string_=a
+_dev_string_=s
+_year_string_=y
+_hour_string_=h
+_mnt_add_string_=tmpa
+_mnt_bck_string_=tmpp
+_mnt_sct_string_=tmps
+_series_=series
+

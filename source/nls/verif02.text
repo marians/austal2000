@@ -1,0 +1,11 @@
+# default strings for verif02.c
+# last change: 2008-09-25 lj
+#
+_problems_nls_=Problems observed with native language support \"%s\"\n
+_title1_=02: Rating of odour hour frequencies\n\n
+_form_label_=%-10s:
+_label0_=Component
+_label1_=Expected
+_label2_=Observed
+_cant_read_$_=*** Can't read file \"%s\"!\n
+

@@ -1,0 +1,19 @@
+# default strings for verif01.c
+# last change: 2008-09-25 lj
+#
+_problems_nls_=Problems observed with native language support \"%s\"\n
+_title1_=01: Calculation of odour hour frequencies\n\n
+_title2_=Mean daily concentration value :\n
+_header_= N      Mean  Observed Estimated\n
+_cant_read_$_=*** Can't read file \"%s\"!\n
+_data_not_found_$_=*** Data section in file \"%s\" not found!\n
+_eof_$$_=*** EOF encountered in \"%s\" for j=%d!\n
+_cant_read_$$$_=Can't read data element (%d,%d) in \"%s\"!\n
+_improper_dimensions_$_=*** Improper dimensions in time series \"%s\"\n
+_time_series_=Time series of concentration values:\n
+_mean_observed_= P      Mean  Observed\n
+_daily_average_=Mean daily value of odour hour frequency:\n
+_mean_observed_estimated_= N      Mean  Observed Estimated\n
+_time_series_odor_=Time series of odour hour frequency:\n
+_mean_observed_counted_= P      Mean  Observed   Counted\n
+

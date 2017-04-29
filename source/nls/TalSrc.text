@@ -1,0 +1,42 @@
+# default strings for TalSrc
+# last change 2008-07-28 lj
+#
+_internal_error_=Internal error!
+_negative_emission_$$$_=Negativ emission in grid source \"%s\" (%d,%d)!
+_inconsistent_reference_=Inconsistent source reference!
+_range_error_grid_$$$_=Range error grid source \"%s\" (%d,%d)!
+_no_data_=Data not available!
+_invalid_index_$_=Invalid index %d!
+_no_memory_=No memory available!
+_range_error_$$_=Range error (%d,%d)!
+_cant_create_particles_$_=Can't create array of %d particles!
+_cant_detach_particles_=Can't detach particle array!
+_cant_start_chain_=Can't start particle chain!
+_no_grid_source_$_=Grid source \"%s\" not available!
+_missing_delta_$_=Missing mesh size (delta) in grid source \"%s\"!
+_cant_init_grid_$_=Can't initialize particle count for grid source \"%s\"!
+_no_particle_count_grid_$_=Can't get particle count for grid source \"%s\"!
+_no_next_particle_$$_$_=Can't get next particle (%d/%d) for source \"%s\"!
+_cant_detach_grid_$_=Can't detach grid source \"%s\"!
+_range_error_$_=Range error %d!
+_cant_attach_particles_$_=Can't attach particle array \"%s\"!
+_cant_init_count_$_=Can't initialize particle count for array \"%s\"!
+_no_next_particle_$_=Can't get next particle of chain for array \"%s\"!
+_cant_detach_particles_$_=Can't detach particle array \"%s\"!
+_cant_set_grid_$_=Can't set grid %d!
+_cant_reduce_particles_$_=Can't reduce particle array \"%s\"!
+_cant_define_creator_$_=Can't define creator for \"%s\"!
+_cant_init_=Can't initialize SrcServer!
+_prm_not_initialized_=PrmServer not initialized!
+_improper_time_request_$_$$_=Requested time %s not within [%s,%s]!
+_cant_redefine_=Can't redefine creator!
+_cant_create_particles_$$_=Can't create particle array for iasl=%d, gp=%d!
+_cant_transfer_particles_$$_=Can't transfer particle array for iasl=%d, gp=%d!
+_cant_delete_particles_$$_=Can't delete particle array for iasl=%d, gp=%d
+_cant_define_validity_$_=Can't define validity time for \"%s\"!
+_expected_$$$_found_$$_=Expected: %s[%s,%s], found: [%s,%s]!
+_no_grid_$$_=Can't get grid (%d,%d)!
+_cant_select_particles_$$$_=Can't select particles \"%s\" in grid (%d,%d)!
+_cant_transfer_particles_$$$_=Can't transfer particles \"%s\" into grid (%d,%d)!
+_cant_analyse_odor_=Can't analyse odor components!
+

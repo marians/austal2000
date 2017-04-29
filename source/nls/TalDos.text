@@ -1,0 +1,48 @@
+# default strings for TalDos
+# last change 2008-07-12 lj
+#
+_internal_error_=Internal error!
+_incompatible_field_structure_=Incompatible structure of fields!
+_index_range_=Index out of range!
+_cant_set_net_$_=Can't set net %d!
+_cant_create_$_=Can't create %s!
+_$_not_available_=%s not available!
+_cant_map_$$_=Can't map %s to %s!
+_found_$$$$$_=found: %s [%s,%s] at [%s,%s]!
+_index_range_$$$$_=Index (%d,%d,%d,%d) out of range!
+_searching_$$$_found_$$_=Searching for %s[%s,%s], found: [%s,%s]
+_cant_attach_$$$_=Can't attach %s[%s,%s]!
+_cant_provide_model_field_$$_=Can't provide model field %s at %s!
+_cant_provide_parameters_$$_=Can't provide parameters %s at %s!
+_invalid_times_$$_=Invalid simulation times [%s,%s]!
+_cant_provide_particles_$$$_=Can't provide particles %s at [%s,%s]!
+_cant_get_sample_$$_=Can't get sample %s at %s!
+_$_inconsistent_time_$$_=%s with inconsistent time %s (%s expected)!
+_cant_sum_$$$_=Can't sum sample %s [%s,%s]!
+_cant_detach_$$$_=Can't detach %s [%s,%s]!
+_cant_extract_particles_$$$_=Can't extract particles from %s [%s,%s]!
+_cant_adjust_time_$$$_=Can't adjust time for %s [%s,%s]!
+_cant_clear_particles_$$_=Can't clear extracted particles %s at %s!
+_cant_change_time_$_=Can't change XTRarr to t1=%s!
+_cant_clear_arrays_=Can't clear PRFarr and MODarr!
+_cant_rename_$_=Can't rename %s!
+_cant_get_$_=Can't get %s!
+_index_error_$$_=Index error at (%d,%d)!
+_cant_detach_$_=Can't detach %s!
+_cant_clear_$_=Can't clear %s!
+_dose_$_undefined_=Dose %s undefined!
+_expected_$$$_found_$$_=Expected: %s [%s,%s], found: [%s,%s]!
+_cant_get_$$$_=Can't get %s [%s,%s]!
+_improper_structure_$$$_=Improper structure of %s [%s,%s]!
+_cant_create_$$$_=Can't create %s [%s,%s]!
+_cant_define_creator_$_=Can't define creator for %s!
+_cant_init_servers_=Can't initialize other server!
+_no_data_=No data specified!
+_no_time_=No time specified!
+_cant_calculate_$$$_=Can't calculate %s [%s,%s]!
+_cant_map_dose_fields_=Can't map dose fields!
+_cant_clear_dose_fields_=Can't clear dose fields!
+_cant_reduce_vertical_extension_=Can't reduce vertical extension!
+_cant_average_dose_=Can't average dose fields!
+_cant_calculate_odour_hour_=Can't calculate odour hour!
+

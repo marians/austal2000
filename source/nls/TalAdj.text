@@ -1,0 +1,6 @@
+# default strings for TalAdj
+# last change 2008-07-28 lj
+#
+_$_row_start_$$_=*** ADJ.%s: row %d starts with element %d!\n
+_singular_matrix_=Singular matrix!
+_internal_error_=Internal error!

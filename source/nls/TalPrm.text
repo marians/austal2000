@@ -1,0 +1,11 @@
+# default strings for TalPrm
+# last change 2008-07-28 lj
+#
+_internal_error_=Internal error!
+_reading_$_=Reading \"%s\" ...
+_$_closed_=... \"%s\" closed.
+_$_species_$_=... %d species (%d groups) defined.
+_$_sources_$_=... %d sources (%d groups) defined.
+_$_emissions_=... %d emission definitions read.
+_$_reactions_=... %d reaction definitions read.
+

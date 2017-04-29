@@ -1,0 +1,29 @@
+# default strings for TalQtl.c
+# last change: 2008-08-26 lj
+#
+_help_1_$$_=TalQuantil version %s %s
+_help_2_=Calculation of highest hourly averages, percentiles or\n        exceedance frequencies
+_help_3_=Aufruf: TalQuantil  <path>  <option> ... 
+_help_4_=Option: -i<input>         File containig the distribution function
+_help_5_=        -g<grid>          Grid tag for output file
+_help_6_=        -o<output>        Name of the output file
+_help_7_=        -K<ident>         Identifier for output header
+_help_8_=        -s<substance>     Selected substance
+_help_9_=        -m<number>        Number of accepted exceedances
+_help_10_=or if the flag +QTL is set in param.def:
+_help_11_=        -p<percentile>    Percentile to be calculated
+_help_12_=        -f<value>         Exceedance frequency of <value>
+_calculation_$_=TQL: Calculation of short time averages for \"%s\"
+_exceedings_changed_$_=TQL: Accepted number of exceedances changed to %d.
+_file_$_written_=TQL: File \"%s\" written.
+_$_no_distribution_=File \"%s\" is not a distribution table!
+_internal_error_=Internal error!
+_internal_error_at_$$$$_=Internal error at %d,%d,%d,%d
+_cant_write_$_=Can't write file \"%s\"!
+_cant_get_from_histogram_=Can't calculate selected quantity from histogram!
+_cant_get_from_maximum_=Can't calculate selected quantity from list of maxima!
+_only_exceedings_$_=Only exceedances 0 to %d available!
+_no_name_=Parameter \"name\" not found!
+_$_not_found_=Substance \"%s\" not found!
+_no_target_=Missing specification of quantity to be calculated!
+

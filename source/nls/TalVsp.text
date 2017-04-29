@@ -1,0 +1,11 @@
+# default strings for TalVsp
+# last change 2008-07-28 lj
+#
+_invalid_parameter_$$_=VspCallVDISP.1: Invalid parameter: cl=%1.1f, uh=%1.1f
+_cant_open_$_=VspCallVDISP.2: Can't open file \"%s\"!
+_no_connection_$_=VspCallVDISP.3: No connection to \"%s\"
+_$_not_found_=\nProgram \"%s\" not found!\n\n
+_cant_read_$_=VspCallVDISP.4: Can't read file \"%s\"!
+_read_error1_$_=VspCallVDISP.5: Read error in line %d!
+_read_error2_$_=VspCallVDISP.6: Read error in line %d!
+

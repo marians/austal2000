@@ -1,0 +1,7 @@
+# default strings for TalRgl
+# last change 2008-07-28 lj
+#
+_eof_=RGL: *** Unexpected end of file!\n
+_invalid_char1_$$$_=RGL: *** Invalid character (%d) at (%d, %d)\n
+_invalid_char2_$$$_=RGL: *** Invalid character (%c) at data row %d col %d\n
+

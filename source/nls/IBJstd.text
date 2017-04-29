@@ -1,0 +1,31 @@
+# default strings for IBJstd
+# last change 2008-09-30 lj
+#
+_ibjstd_no_log_=Can't write log-file \"%s\"!
+_ibjstd_no_arg_file_=Argument file \"%s\" not found!
+_ibjstd_error_=Error while handling option \"%s\"!
+_version_nls_ =*** Native language version \"%s\" required!
+_error_nls_   =*** Error during installation of native language support \"%s\"!
+_problems_nls_=Problems with native language support \"%s\"
+_internal_error_=Internal error!
+_internal_error_$_=Internal error (%s)!
+_invalid_operation_$_=Invalid operation (%s)!
+_file_$_not_found_=File \"%s\" not found!
+_directory_$_not_found_=Directory \"%s\" not found!
+_cant_read_$_=Can't read file \"%s\"!
+_cant_write_$_=Can't write file \"%s\"!
+_cant_allocate_$_=Can't allocate %d bytes!
+_$_not_available_=\"%s\" is not available!
+_index_error_$_=Index error (%d)!
+_index_error_$$_=Index error (%d, %d)!
+_index_error_$$$_=Index error (%d, %d, %d)!
+_index_error_$$$$_=Index error (%d, %d, %d, %d)!
+_invalid_value_$d$_=Invalid value (%s%d)!
+_invalid_value_$e$_=Invalid value (%s%e)!
+_interrupted_=Interrupted
+_segmentation_violation_=Segmentation violation
+_termination_request_=Termination request
+_abnormal_termination_=Abnormal termination
+_unknown_signal_=Unknown signal
+_abort_signal_=\nABORT, SIGNAL %d\n
+

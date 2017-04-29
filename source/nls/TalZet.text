@@ -1,0 +1,51 @@
+# default strings for TalZet
+# last change 2006-10-26 lj
+#
+_$_components_=%ld components for monitor points
+_$_points_=%d monitor points defined
+_error_value_$_$_=Error in reading the value of \"%s\" in file \"%s\"!
+_cant_read_$_=Can't read file \"%s\"!
+_name_too_long_$_=Name too long (\"%s\")!
+_no_assignment_$_=No assignment section found in file \"%s\"!
+_no_components_$_=No components specified in file \"%s\"!
+_inconsistent_count_factors_cnc_=Inconsistent number of scaling factors for concentration!
+_inconsistent_count_factors_dry_=Inconsistent number of scaling factors for dry deposition!
+_missing_header_$_=Missing tab header in file \"%s\"!
+_no_points_$_=No definition of monitor points found in file \"%s\"!
+_cant_create_table_=Can't create table of monitor points!
+_index_$_=Index %d out of range!
+_invalid_tag_$_$_=Data line with tag >%c< found in file \"%s\"!
+_input_$_=Input line: %s
+_few_values_=Definition of monitor point has less than 3 values!
+_cant_detach_$_=Can't detach \"%s\"!
+_cant_read_name_=Can't read name!
+_no_data_$_=data Array \"%s\" not available!
+_cant_open_$_=Can't open file \"%s\"!
+_index_$$_=Index (%d,%d) out of range!
+_error_reading_value_$_=Error in reading the value of \"%s\"!
+_cant_get_$_=Can't get \"%s\"!
+_name_missing_$_=Parameter NAME missing in header of \"%s\"!
+_unit_inconsistent_$_=Parameter EINHEIT inconsistent in header of \"%s\"!
+_no_component_$_$_=Component \"%s\" not found in\"%s\"!
+_component_count_$_=Number of components > %d!
+_cant_create_$_=Can't create data array \"%s\"!
+_index_$$$$_=Index (%d,%d,%d,%d) out of range!
+_cant_set_grid_$_=Can't set grid %d!
+_error_reading_$_=Error reading \"%s\"!
+_error_calculating_values_=Error calculating values for monitor points!
+_cant_detach_=Can't detach array!
+_no_volume_values_=Array of volume values not available!
+_missing_points_=Definition of monitor points not available!
+_no_position_$_$$$_=Can't position point %d at (%1.0f,%1.0f,%1.0f)!
+_cant_init_servers_=Can't initialize other server!
+_cant_read_definition_=Can't read definition of monitor points!
+_cant_analyse_definition_=Can't analyse monitor points!
+_no_output_type_=ZET: No output type specified!
+_sequence_$_=ZET: Sequence %d   
+_no_log_=Can't open log-file!
+_cant_init_=Can't initialize ZET server!
+_cant_calculate_$_=Can't calculate monitor values for sequence %d!
+_cant_write_$_=Can't write monitor values for sequence %d!
+_no_definition_=Definition of monitor points not available!
+_cant_delete_$_=Can't delete data array \"%s\"!
+

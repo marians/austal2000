@@ -1,0 +1,48 @@
+# default strings for austal2000.c
+# last change: 2014-01-21 uj
+#
+_austal2000_version_=Dispersion Model AUSTAL2000, Version %s
+_version_=version
+_set_work_directory_=Please enter the working directory for this dispersion calculation:
+__austal2000_version_=   Dispersion model AUSTAL2000, version %s
+_msgalloc_bytes_=MSGALLOC: %s - %s/%s bytes, %s allocations\n
+_tmncount_particles_=TMNCOUNT: %d arrays, %d bytes, %d particles\n
+_server_done_=Server done
+_a2k_error_=AUSTAL2000 terminated because of an error.
+_a2k_stopped_=AUSTAL2000 terminated because of invalid input.
+_a2k_finished_=AUSTAL2000 finished.
+_press_return_=Press [Return]!\n
+_a2k_aborted_=AUSTAL2000 aborted.
+_copyright_uba_ =   Copyright (c) Umweltbundesamt, Dessau-Rosslau, 2002-2014
+_copyright_ibj_ =   Copyright (c) Janicke Consulting, Ueberlingen, 1989-2014
+_work_directory_=   Working directory: %s \n
+_cant_work_=Can't use the given working directory!
+_pgm_created_=Program created at %s\n
+_host_is_=The program is running on host \"%s\".\n\n
+_lib_complex_only_=A library of wind fields is created for complex terrain only!
+_stopped_by_vdisp_=>>> The program VDISP has terminated with the following message:
+_plume_rise_0_    =>>> A plume rise value of 0 is substituted.
+_additional_cases_=>>> %d more cases of this kind!\n
+_evaluation_t_=Evaluation of results:\n
+_evaluation_u_=======================\n\n
+#
+# Must be consistent with TalCfg.text:
+#
+_eval_dep_  =     DEP: Yearly average of deposition\n
+_eval_dry_  =     DRY: Yearly average of dry deposition\n
+_eval_wet_  =     WET: Yearly average of wet deposition\n
+_eval_j00_  =     Y00: Yearly average of concentration/frequency of odour hours\n
+_eval_tnn_  =     Dnn: Highest daily average of concentration with nn exceedances\n
+_eval_snn_  =     Hnn: Highest hourly average of concentration with nn exceedances\n\n
+_break_line_==============================================================================\n\n
+#
+_warning_src_1_=WARNING: One or more sources are lower than 10 m.\n
+_warning_src_2_=         Therefore, the listed maximum values are possibly\n
+_warning_src_3_=         not relevant for an assessment!\n\n
+_main_done_=Main done
+_main_finished_=Main finished
+_no_taluft_= 
+_xflags_applied_      =>>> Deviation from the standard (program call option -x)!\n
+_no_def_files_created_=>>> Deviation from the standard (existing DEF files in subdirectory work are used)!\n
+_unknown_option_=Unknown program call option!
+#

@@ -1,0 +1,45 @@
+# default strings for TalAKS
+# last change 2011-12-07 lj
+#
+_$_class_$$_=%s: Class %d mit %6.4f
+_$_sum_$_=%s: Sum = %6.4f
+_stat_$$_normalized_=Statistics \"%s\" with sum=%1.4f normalized\n
+_cant_convert_$$_=Can't convert \"%s\" to \"%s\"!
+_class_$_sum_$_=In class %d: sum=%4.0f\n
+_incomplete_file_=File incomplete!
+_cant_read_$_=Can't read file \"%s\"!
+_eof_$$_=Unexpected end of file \"%s\" at line %d!
+_input_$_=INPUT: %s
+_eof_$$$$$_=Unexpected end of file \"%s\" at line %d (%d,%d,%d)!
+_invalid_AKS_with_rain_=Invalid AKS with precipitation!
+_cant_allocate_=Can't allocate array!
+_invalid_groups_=Invalid number of non-standard velocity groups!
+_TAL_required_=Invalid structure of AKS!
+_format_error_=AKS contains invalid formatted data!
+_file_$_written_=File \"%s\" written.
+_cant_open_$_=Can't open output file \"%s\"!
+_list1_$$$$_=%s (%1.1f mm/h), class: %1.1f, unit: %s\n\n
+_list2_=Wr\\Wg:
+_list3_=     Sum\n-----+
+_list4_=Sum:
+_list5_$_=Average: %1.2f\n\n
+_comment_$$$_=- Created by %s (TalAKS %s)\n- AKS %s\n
+_cant_write_$_=Can't write file \"%s\"!
+_missing_option_=Either option Blm=.. or option(s) NOSHEAR|SPREAD!
+_internal_error_=Internal error!
+_comment2_$$$_=- Created by %s (TalAKS %s): Statistics \"%s\"\n
+_comment3a_=- Formal time series for creating a wind field library\n
+_$_non_standard_=%d non-standard velocity groups
+_title_$_=TalAKS %s: Conversion of AKS
+_$_cases_=Dispersion calculation will use %d situations
+_$_files_exceeded_=Only %d input files possible!
+_invalid_option_$_=Invalid structure of option \"%s\"!
+_invalid_class_$_=Invalid class index %d!
+_unknown_format_$_=Unknown format >>>%s<<<!
+_error_reading_$_=Error reading \"%s\"!
+_improper_sum_weights_$_=Sum of weights = %5.5f != 1.000!
+_invalid_count_velocities_=Invalid number of velocity values!
+_error_creating_input_=Error creating input files!
+_maxsituations_exceeded_$$_=Maximum number of situations (%d) exceeded: %d!
+_precipitation_$_=Total precipitation %1.0f mm.
+

@@ -1,0 +1,33 @@
+# default strings for TalDMKutil
+# last change 2008-07-28 lj
+#
+_null_pointer_grid_=Null pointer to grid object
+_not_clean_=Array not clean
+_invalid_arguments_=Invalid arguments
+_cant_allocate_=Can't allocate memory
+_invalid_spacing_=Non positive spacing
+_null_array_=Array is null or not clean
+_array_not_clean_=Array \"xx\"/\"yy\"/\"zz\" not clean
+_cant_allocate_xx_=Can't allocate memory for \"xx\"
+_cant_allocate_yy_=Can't allocate memory for \"yy\"
+_cant_init_grid_=Can't initialize grid
+_index_range_zz_=Invalid index range for argument \"zz\"
+_cant_allocate_zz_=Can't allocate memory for \"zz\"
+_invalid_bounds_=Invalid bounds for \"xx\"/\"yy\"/\"zz\"
+_index_range_=Index out of range
+_hh_not_clean_=Array \"hh\" is not clean
+_constant_spacing_required_=Constant spacing required
+_flat_terrain_required_=Flat terrain required
+_start_0_required_=Vertical grid must start at 0
+_null_boundary_=Null pointer to boundary object
+_bb_not_clean_=Array \"bb\" is not clean
+_null_wind_=Null pointer to wind object
+_incomplete_boundary_=Boundary is not complete
+_cant_get_hh_=Can't get \"hh\" from \"gridZ\"
+_cant_get_zg_=Can't get \"zg\" from \"gridXY\"
+_null_argument_=First argument is null
+_inconsistent_number_cells_=Inconsistent number of cells
+_inconsistent_boundary_structure_=Inconsistent boundary structures
+_cant_allocate_array_=Can't allocate array!
+_internal_error_=Internal error
+

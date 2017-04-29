@@ -1,0 +1,18 @@
+# default strings for TalPtl
+# last change 2008-07-28 lj
+#
+_internal_error_=Internal error!
+_list_full_=Array list full!
+_invalid_index_$_=Invalid particle index %d!
+_cant_attach_$_=Can't attach \"%s\"!
+_index_range_$$_=Index %d out of range in \"%s\"!
+_cant_detach_$_=Can't detach \"%s\"!
+_undefined_recsize_=Record size undefined!
+_cant_create_table_$_=Can't create table for %d particles!
+_range_$$_=Range error (%d/%d)!
+_no_$_=\"%s\" not available!
+_cant_count_$_=Can't count particles of \"%s\"!
+_structure_$_=Invalid structure of \"%s\"!
+_cant_resize_$_=Can't resize \"%s\"!
+_cant_create_$_=Can't create \"%s\"!
+_internal_error_$_=Internal error (%d,%d,%d,%d,%d,%d)!

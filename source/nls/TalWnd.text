@@ -1,0 +1,113 @@
+# default strings for TalWnd.c
+# last change: 2011-11-21 lj
+#
+_cant_set_$$_=Can't set grid (%d,%d)!
+_defmode0_=DefMode=0 required!
+_no_grid_=Can't get grid parameter!
+_no_solid_=Can't get solid array!
+_no_grdarr2_=GRDarr.2 not available!
+_cant_insert_boundary_=Can't insert boundary values!
+_no_init_=No initial field specified!
+_no_meteo_=Can't get meteorology!
+_cant_create_header_=Can't create header!
+_cant_create_init_$_=Can't create initial wind field %s!
+_init_$_not_found_=Initial wind field %s not found!
+_no_boundary_$$$_=Boundary values for grid (%d,%d) step %d not available!
+_no_stability_=No stability class or Monin-Obukhov length defined!
+_init_converted_=WND: initial wind field to s-system converted
+_error_header_$_=Invalid header in file \"%s\"!
+_valdef_required_$_=Parameter VALDEF required in header of file \"%s\"!
+_parameter_$_inconsistent_=Parameter in \"%s\" inconsistent!
+_structure_$_inconsistent_=Structure of \"%s\" inconsistent!
+_cant_convert_=Can't convert initial wind field!
+_cant_alloc_header_=Can't allocate header!
+_no_uref_=Can't determine uref!
+_improper_field_$$_=Improper wind field \"%s\" (Va=%4.2lf)!
+_cant_read_turb_=Can't read turbulence field!
+_index_error_=Index error!
+_cant_get_init_=Can't get initial wind field!
+_cant_create_array_=Can't create array!
+_cant_create_field_$_=Can't create wind field \"%s\"!
+_inconsistent_size_=Inconsistent size of wind fields!
+_cant_write_header_=Can't write header!
+_index_$$$_=Index (%d,%d,%d) out of range!
+_singular_$$$_=Singularity at (%d,%d,%d) !
+_overflow_equations_=Overflow adding equations!
+_error_matrix_=Error building matrix!
+_no_diagonal_$_=Diagonal element l=%d not found!
+_zero_diagonal_$_=Zero value in diagonal at l=%d!
+_abort_$_=WND: *** Abort after %d iterations!
+_$_not_sufficient_$$$_=WND: *** %d iterations not sufficient for grid (%d,%d) step %d!
+_$_iterations_=WND: %d iterations
+_no_convergence_$$$_=No convergence for grid (%d,%d) step (%d)!
+_divergence_$$$$_=@Remaining divergence = %5.3f (%d %d%d)  
+_divergence_$$_=@Remaining divergence = %5.3f (%d)  
+_cant_get_field_$_=Can't get wind field %s!
+_divergence_too_large_$_=The remaining divergence is clearly too large (>%1.1f)!\nThe program will be terminated because the created wind field\nis not suited for a dispersion calculation.\n
+_cant_get_field_=Can't get wind field!
+_no_surface_info_=Can't get surface information!
+_writing_init_=WND: writing initializing field ...\n
+_cant_write_file_$_=Can't write file \"%s\"!
+_error_bodies_=Error preparing bodies!
+_improper_grid_$$$$_=Improper grid: a grid cell of a building touches the border at i=%d, j=%d, k=%d\n    (see file \"%s\").\n    At least one free grid cell is required between building and border!
+_grid_$$_ground_$$$_=WND: Grid:(%d,%d),  Ground: H=%1.1f m  L=%1.1f m,  Ceiling:%s 
+_$_found_=WND: \"%s\" found and used.
+_$_written_=WND: \"%s\" written
+_grid_undefined_=Grid undefined!
+_cant_define_grid_=Can't define grid!
+_cant_initialize_=Can't initialise velocities!
+_cant_define_equations_=Can't define equation system!
+_cant_solve_=Can't solve equations!
+_error_calculation_=Error in calculating velocity field!
+_error_clearing_=Error in clearing field!
+_cant_rename_=Can't rename wind field!
+_cant_write_wind_$_=Can't write wind field %s!
+_cant_write_trb_$_=Can't write trb field %s!
+_cant_write_dff_$_=Can't write dff field %s!
+_cant_write_dmna_$_=Can't write dmna wind field %s!
+_cant_write_dmna_trb_$_=Can't write dmna trb field %s!
+_cant_write_dmna_dff_$_=Can't write dmna dff field %s!
+_cant_write_zg_=Can't write zg/zp field!
+_cant_insert_=Can't insert surface layer!
+_cant_set_uref_=Can't set uref!
+_cant_attach_=Can't attach field!
+_cant_detach_=Can't detach field!
+_cant_calculate_dmk_=Can't calculate dmk field!
+_cant_prepare_bodies_=Can't prepare bodies!
+_body_matrix_$_=WND: body matrix contains %d active ground cells.
+_$_bodies_=WND: %d bodies defined.
+_cant_set_points_$_=Can't set polygon points (rc=%d)!
+_undefined_bmatrix_=Body matrix undefined!
+_not_applicable_=DMK model can only be applied to a a grid with Zd=Sd=0!
+_no_surface_found_=No surface profiles found!
+_not_initialized_=WND not initialized!
+_applying_sorrelax_=WND: Applying option SORRELAX
+_calculating_wind_=WND: Calculating wind field
+_help_1_$$$_=%s,  version %s  %s
+_help_2_  =Usage : taldia <path> [options]
+_help_3_  =Option: -v<level>   Verbose level for log informations (1)
+_help_4_  =        -t          Output in text format instead of binary format
+_help_5_  =        -oGRIDONLY  Write out grid informations, then quit
+_help_6_$_=        -B<WindLib> Use directory <WindLib> (%s)
+_help_7_$_=        -i<File>    Meteorology file name (%s)
+_help_8_  =        -w<Hex>     Write out additional wind fields
+_$_exit_error_=@%s terminated due to an error.
+_$_exit_input_=@%s terminated due to invalid input
+_$_exit_=@%s Finished without error
+_wnd_aborted_=TALdia aborted
+_$$_calculation_libs_=@%s %s: Calculation of a wind field library.
+_cant_work_$_=The directory \"%s\" can not be used!
+_created_$_=Programme created at %s\n
+_host_is_$_=Programme is running on host \"%s\"\n
+_library_complex_=A wind field library is created for compley terrain only!
+_cant_create_library_=A wind field library could not be created!
+_progress_$_=     Progress: %4.1f %%     \r
+_grid_file_created_=Grid files have been created, no wind field calculation.
+_lib_$_created_=A wind field library has been created for %d situations.
+_max_div_$$_=The maximum divergence is %1.3f (%d).
+_no_work_$_=The specified working directory \"%s\" doesn't exist!
+_no_input_$_=The input file \"%s/austal2000.txt\" is missing!
+_cant_make_$_=The directory \"%s\" can not be created!
+_$_not_deleted_=The existing wind field library \"%s\" has not been deleted!
+_no_def_files_created_=\n>>> Divergence from the standard!\n>>> The existing DEF-files in subdirectory \"work\" are used!\n
+#

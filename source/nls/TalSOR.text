@@ -1,0 +1,28 @@
+# default strings for TalSOR
+# last change 2008-07-28 lj
+#
+_internal_error_=Internal error!
+_null_SOR_=Null pointer to SOR object
+_not_clean_=Array not clean
+_cant_read_xx_$_=Can't read xx from g1d, rc=%d
+_cant_allocate_1d_=Can't allocate 1d array
+_cant_allocate_3d_=Can't allocate 3d array
+_cant_set_matrix_=Can't set matrix
+_rr_not_initialized_=rr not initialized
+_no_memory_=Can't allocate memory
+_null_array_=Null pointer to array or array not clean
+_invalid_boundary_$$$_=Invalid internal boundary for i=%d, j=%d, k=%d
+_inconsistent_cell_count_=Inconsistent number of grid cells
+_inconsistent_cell_size_=Inconsistent cell size
+_inconsistent_vertical_grid_=Inconsistent vertical grid
+_cant_init_wind_=Can't initialize wind field
+_cant_set_wind_=Can't set wind field
+_cant_calculate_div_=Can't calculate divergence
+_cant_iterate_=Can't iterate
+_null_string_=Null pointer to string
+_cant_get_div_=Can't get divergence
+_no_vx_=Can't get vx
+_no_vy_=Can't get vy
+_no_vz_=Can't get vz
+_null_wio3d_=Null pointer to WIOD3D object
+

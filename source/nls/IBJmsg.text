@@ -1,0 +1,16 @@
+# default strings for IBJmsg
+# last change 2008-07-28 lj
+#
+_no_allocation_tables_$_=MSG: Can't create allocation tables with %d entries\n
+_cant_allocate_$_=MSG: Can't allocate %d bytes, total allocation = 
+_buffer_overflow_=MSG: Allocation buffer overflow\n
+_invalid_free_$$_=MSG: Invalid FREE for p=%d\n     (%s)\n
+_invalid_realloc_$$_=MSG: Invalid REALLOC for p=%d\n     (%s)\n
+_table_allocations_=MSGALLOC: Table of current allocations:\n
+_table_header_=  counter       bytes    address        date     time  program\n
+_currently_allocated_=MSGALLOC: Currently allocated bytes = 
+_maximum_allocated_=MSGALLOC: Maximum allocated bytes = 
+_number_allocations_$$$_=MSGALLOC: Number of allocations = %d / %d / %d\n
+_no_message_buffer_$_=MSG: Can't allocate message buffer (%d bytes)!\n
+_message_buffer_overflow_=MSG: Message buffer overflow!\n
+

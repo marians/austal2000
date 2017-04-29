@@ -1,0 +1,12 @@
+# default strings for verif61.c
+# last change: 2008-09-25 lj
+#
+_problems_nls_=Problems observed with native language support \"%s\"\n
+_title1_=61: Test of particle trace in 3-dimensional wind field\n
+_cant_read_$_=*** Can't read file \"%s\"!\n
+_invalid_structure_$_=*** Invalid file structure in \"%s\"!
+_data_not_found_$_=*** Data section in file \"%s\" not found!\n
+_eof_$_$_=*** EOF encountered for n=%d (%d lines)!\n
+_read_error_$_=Read error in line %d!\n
+_header_=   T       X       x       Y       y\n
+

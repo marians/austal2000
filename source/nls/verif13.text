@@ -1,0 +1,12 @@
+# default strings for verif13.c
+# last change: 2008-09-25 lj
+#
+_problems_nls_=Problems observed with native language support \"%s\"\n
+_title1_=13: Test for homogeneity: Inhomogeneous turbulence, constant time step\n
+_cant_read_$_=*** Can't read file \"%s\"!\n
+_invalid_structure_$_=*** Invalid file structure in \"%s\"!
+_data_not_found_$_=*** Data section in file \"%s\" not found!\n
+_eof_$_=*** EOF encountered for k=%d!\n
+_cant_read_element_$_=*** Can't read data element (%d)!\n
+_header_= K    Cmin       C    Cmax\n
+

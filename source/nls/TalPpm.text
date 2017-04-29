@@ -1,0 +1,32 @@
+# default strings for TalPpm
+# last change 2013-07-08 uj
+#
+_internal_error_=Internal error!
+_cant_create_table_=Can't create table of particle parameters!
+_negative_parm_=Negative substance parameter (vsed|vdep|rexp|rfak|hred|vred)!
+_negative_vdep_=Negative deposition velocity!
+_no_data_=Data not available!
+_cant_calculate_=Can't calculate deposition velocity!
+_cant_update_$_$$_$$_=Can't update %s from [%s,%s] to [%s,%s]!
+_cant_attach_$_=Can't attach %s!
+_$_wdep_=%d times wdep>1 
+_no_depo_probabilities_=Array of deposition probabilities not found!
+_no_depo_velocities_=Array of deposition velocities not available!
+_improper_structure_$_=Improper structure of %s!
+_cant_create_probabilities_=Can't create array of deposition probabilities!
+_missing_data_$$$_=Data at (%d,%d; %d) not available!
+_cant_calculate_probability_$$$_=Can't calculate deposition probability at (%d,%d; %d)!
+_range_error_$$_=Range error at (%d,%d)!
+_not_initialized_=PPM-server not initialized
+_no_data_specified_=No data specified!
+_no_grid_data_=Can't get grid data!
+_no_vertical_grid_=Can't get vertical grid!
+_no_parameters_=Can't get general parameters!
+_no_model_$_=Can't get model field %s!
+_no_components_$_=Can't get table of components %s!
+_cant_calculate_parameters_=Can't calculate particle parameters!
+_cant_calculate_2d_=Can't calculate 2-dim deposition probability!
+_improper_request_$_=Improper server request for %s!
+_no_boundary_=Can't get boundary layer parameters!
+_invalid_time_$$_=Invalid time interval [%s,%s]!
+

@@ -1,0 +1,33 @@
+# default strings for TalDMK
+# last change 2008-08-26 lj
+#
+_internal_error_=Internal error!
+_starting_with_divergence_$_=DMK: starting with maximum divergence %1.2e
+_estimated_rj_$$$_=DMK: estimated Rj=%8.8f, niter=%d, ntry=%d\n
+_found_rj_$$_=DMK: by testing determined Rj=%8.8f  (%8.8f)\n
+_repeated_with_$_=DMK: repeating with Rj=%8.8f\n
+_finished_with_$_=DMK: finished with maximum divergence %1.2e.
+_error_creating_init_$_=Error creating initial wind field (%d)
+_error_setting_boundaries_$_=Error setting boundaries (%d)
+_error_creating_recirculation_$_=Error creating wind/recirculation field (%d)
+_error_allocation_=Allocation error
+_error_clearing_boundaries_$_=Error clearing boundary values (%d)
+_error_init_sor_$_=Error initializing SOR (%d)
+_error_removing_divergence_$_=Error removing divergence (%d)
+_no_convergence_=DMK: SOR does not converge.
+_cant_calculate_rj_=Can't calculate Jacobian radius.
+_error_defining_shadow_$_=Error defining shadow (%d)
+_error_definig_recirculation_$_=Error defining recirculation field (%d)
+_null_pointer_=Null pointer to input field
+_size_wnd_=Data area for output wind field has wrong size.
+_size_trb_=Data area for output trb field has wrong size.
+_size_dff_=Data area for output dff field has wrong size.
+_inconsistent_dimensions_=Inconsistent dimensions for input arrays
+_active_faces_$$_=DMK: %d active faces (total %d)
+_cant_set_faces_$_=Can't set faces (%d).
+_cant_set_visible_$_=Can't set visible cells (%d).
+_cant_set_rfield_$_=Can't set rfield (%d).
+_cant_crop_rfield_$_=Can't crop rfield (%d).
+_cant_allocate_=Can't allocate memory.
+_invalid_building_height_=Invalid mean building height
+_sor_options_$_=SOR: applied options: %s

@@ -1,0 +1,37 @@
+# default strings for TalAdj
+# last change 2008-07-28 lj
+#
+_internal_error_=Internal error!
+_index_error_$$$_=Index error with (%d,%d,%d)!
+_index_error_$$_=Index error with (%d,%d)!
+_index_error_$_=Index error with k=%d!
+_cant_interpolate_velocities_=Can't interpolate velocities!
+_error_choleski_omega_=Error in Choleski separation of Omega!
+_error_choleski_sigma_=Error in Choleski separation of Sigma!
+_mode_$_not_implemented_=PrfMode=%d not implemented!
+_cant_calculate_$_=Can't calculate %s!
+_cant_calculate_step_$$$_=Can't calculate time step at (%d,%d,%d)!
+_cant_create_$_=Can't create %s!
+_cant_calculate_velocities_=Unable to calculate interpolated velocities!
+_cant_calculate_psi_$$$_=Can't calculate Psi at (%d,%d,%d)!
+_cant_calculate_div_=Can't calculate Div!
+_cant_calculate_step_$_=Can't calculate time step at k=%d!
+_cant_calculate_psi_$_=Can't calculate Psi at k=%d!
+_not_initialized_=MOD-server not initialized!
+_undefined_model_field_=Undefined model field!
+_cant_create_header_=Can't create header!
+_no_grid_parameter_=Can't get grid parameter!
+_inconsistent_parameters_=Inconsistent parameter!
+_no_general_parameter_=Can't get general parameter!
+_no_grid_array_=Can't get grid array!
+_no_profile_$$$_=Profile %s [%s,%s] not available!
+_invalid_mode_$_=Invalid profile mode %d!
+_cant_create_model_field_$_=Can't create model field %s!
+_cant_calculate_model_field_$_=Can't calculate model field %s!
+_invalid_dimension_count_$_=Invalid dimension count %d!
+_cant_detach_profile_$_=Can't detach profile %s!
+_cant_detach_model_$_=Can't detach model field %s!
+_cant_write_model_$_=Can't write model field %s!
+_cant_update_$$_$$_=Can't update %s from [%s,%s] to [%s,%s]!
+_cant_attach_$_=Can't attach %s!
+

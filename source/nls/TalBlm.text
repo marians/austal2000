@@ -1,0 +1,35 @@
+# default strings for TalBlm
+# last change 2008-07-28 lj
+#
+_undefined_arguments_=Undefined arguments!
+_negative_height_=Negative height!
+_anemometer_too_high_=Anemometer higher than mixing height!
+_undefined_stability_=Undefined stability!
+_no_ua_=No ua>0 found for determination of u*!
+_unknown_model_$_=Unknown boundary layer model version %1.1f!
+_undefined_parameters_=Undefined meteorological parameters!
+_reading_$_=Reading \"%s\" ...
+_$_closed_=... \"%s\" closed.
+_error_definition_$_=Error in definition of \"%s\"!
+_no_grid_=No grid defined!
+_cant_create_blmpar_=Can't create BLMpar!
+_cant_open_$_=Can't open %s!
+_invalid_structure_$_=Invalid file structure in \"%s\"!
+_anemometer_$$_outside_=Anemometer (%1.1f,%1.1f) outside of computational region!
+_syntax_error_=Syntax error in parameter definition!
+_cant_allocate_=Can't allocate buffer!
+_undefined_grid_=Grid or meteorology undefined!
+_cant_create_profile_=Can't create profile!
+_cant_calculate_profile_=Can't calculate profile!
+_cant_switch_grids_=Can't switch grids!
+_not_initialized_=BLM not initialized!
+_no_data_after_$_=BLM: No data after time %s
+_cant_redefine_=Can't redefine creator!
+_cant_get_parameters_=Can't get meteorological parameters!
+_error_reading_$_=Error in reading \"%s\"!
+_cant_create_null_=Can't create null-array!
+_error_model_=Error in boundary layer model!
+_cant_set_times_=Can't set validity times!
+_cant_delete_$_=Can't delete \"%s\"!
+
+

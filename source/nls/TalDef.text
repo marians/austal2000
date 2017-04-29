@@ -1,0 +1,10 @@
+# default strings for TalDef.c
+# last change: 2008-07-28 lj
+#
+_internal_error_=Internal error!
+_cant_read_surface_file_$_=Can't read surface profile \"%s\"!
+_cant_write_$_=File \"%s\" can not be written!
+_error_option_=Use either option Blm=.. or option(s) NOSHEAR|SPREAD!
+_cant_write_series_$_=The time series \"%s\" could not be written!
+_no_daystart_at_00_$_=The time series must start at time 0 (found \"%s\")!
+_precipitation_$$_=Total precipitation %1.0f mm in %1.0f h.

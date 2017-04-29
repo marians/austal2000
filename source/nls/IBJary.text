@@ -1,0 +1,20 @@
+# default strings for IBJary
+# last change 2008-07-28 lj
+#
+_no_data_=No data defined!
+_wrong_element_size_$$_=Element size is: %d, required: %d!
+_wrong_dimensions_$$_=Number of dimensions is: %d, required: %d!
+_wrong_lower_bound_$$$_=Lower bound of %c is:%d, required: %d!
+_wrong_upper_bound_$$$_=Upper bound of %c is:%d, required: %d!
+_invalid_dimensions_=Invalid number of dimensions!
+_descriptor_used_=Array descriptor already in use!
+_invalid_element_size_=Invalid element size!
+_cant_allocate_$_=Can't allocate %d bytes!
+_undefined_source_=Undefined source array!
+_invalid_index_$$_=Invalid index %c (dim=%d)!
+_invalid_specification_$_=Invalid specification: %s!
+_invalid_range_$$$_=Invalid range: %s (%d..%d)!
+_too_many_specifications_$_=Too many specifications in selection \"%s\"!
+_undefined_data_=Undefined data!
+_$$_out_of_range_$$_=%c=%d not in range %d..%d!
+

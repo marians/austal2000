@@ -1,0 +1,40 @@
+# default strings for TalDtb
+# last change 2008-07-28 lj
+#
+_internal_error_=Internal error!
+_cant_get_grid_$_=Can't get grid %s!
+_dose_$_undefined_=Dose %s undefined!
+_dose_$$$_not_suited_$_=Dose %s [%s,%s] not suited for t=%s!
+_cant_get_dose_$$$_=Can't get dose %s [%s,%s]!
+_cant_get_concentration_$_=Can't get concentration %s!
+_improper_structure_$_=Improper structure of %s!
+_cant_create_$_=Can't create %s!
+_index_error_$$$_=Index error at (%d,%d,%d,0)!
+_cant_detach_=Can't detach field!
+_cant_attach_detach_=Can't attach/detach!
+_count_monitor_$_=Maximum number of monitor points is %d!
+_cant_get_tables_=Can't get tables!
+_cant_read_monitor_$_=Can't read monitor file \"%s\"!
+_data_$_inconsistent_=Data in \"%s\" not consistent with monitor defs!
+_wrong_times_$_=Wrong times in file \"%s\"!
+_cant_write_=Can't write!
+_cant_add_$$$_$$$_=Can't add %s [%s,%s] to %s [%s,%s]!
+_cant_get_$$$_=Can't get %s [%s,%s]!
+_cant_get_weight_=Can't get statistical weight!
+_invalid_weight_$_=Invalid statistical weight %10.2e!
+_index_error_$$$$_=Index error (%d,%d,%d,%d)!
+_cant_attach_=Can't attach field!
+_cant_clear_=Can't clear field!
+_cant_determine_maximum_=Can't determine maximum values!
+_cant_set_monitor_=Can't set monitor point values!
+_time_series_length_$_=Time series with more than %d intervals!
+_cant_set_creator_$_=Can't define creator for %s!
+_cant_init_servers_=Can't initialize other server!
+_cant_read_monitor_=Can't read monitor.def!
+_no_data_=No data specified!
+_cant_init_=Can't initialize!
+_cant_calculate_contab_$_=Can't calculate CONtab from %s!
+_cant_calculate_$_=Can't calculate %s!
+_invalid_request_$_=Invalid request for %s!
+_cant_set_grid_$_=Can't set grid %d!
+

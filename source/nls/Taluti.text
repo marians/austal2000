@@ -1,0 +1,23 @@
+# default strings for TALuti
+# last change 2008-12-19 lj
+#
+_strange_filename_$_=Incomprehensible file name \"%s\"
+_cant_read_file_$_=Can't read file \"%s\"!
+_improper_dimension_$_=Invalid number of dimensions for data in file \"%s\"!
+_eval_additional_=Evaluation for monitor points: Additional load\n
+_sepa_additional_=======================================================\n
+_point_=POINT   
+_error_odor_=Error in evaluation of odour frequencies
+_maximum_values_t_=Maximum values, 
+_maximum_values_u_=================
+_concentration_t_=Concentration
+_concentration_u_==============
+_at_=at
+_at_z_$_t_= at z=%1.1f m
+_at_z_$_u_============
+_deposition_t_=Deposition
+_deposition_u_===========
+_maximum_odor_t_=\nMaximum odour hour frequency 
+_maximum_odor_u_==============================
+_border_=  BORDER AREA!
+_n_a_=  n.a.

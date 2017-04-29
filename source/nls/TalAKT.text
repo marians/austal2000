@@ -1,0 +1,34 @@
+# default strings for TalAKT
+# last change 2013-06-13
+#
+_cant_read_file_$_=Can't read file \"%s\"!\n
+_unknown_format_short_line_=Unknown row format (short line).\n
+_unknown_format_new_=Unknown row format (new DWD format).\n
+_format_after_1998_04_01_=File structured according to DWD after 1998-04-01.\n
+_unknown_format_old_=Unknown row format (old DWD format).\n
+_format_before_1998_04_01_=File structured according to DWD before 1998-04-01.\n
+_invalid_anemometer_height_=Invalid definition of anemometer height!
+_insufficient_count_ha_=Insufficient number of anemometer heights!
+_cant_read_ha_=Can't read anemometer height!
+_invalid_format_=AKTerm has improper row format!
+_akterm_$$$_=\nAKTerm \"%s\" with %d rows, format %d\n
+_short_data_=Insufficient number of data in AKTerm!
+_low_count_9_$_=Insufficient number of elements (<9) in line %d.
+_low_count_15_$_=Insufficient number of elements (<15) in line %d!
+_low_count_17_$_=Insufficient number of elements (<17) in line %d!
+_invalid_sequence_$$_=Invalid sequence of data %d <%s>!
+_expected_$$$$$_=EXPECTED: %d %04d-%02d-%02d.%02d:00:00
+_found_$$$$$_   =FOUND:    %d %04d-%02d-%02d.%02d:00:00
+_allocation_=Allocation error!
+_help01_=Usage:  TalAKTerm <path> [<option>]\n
+_help02_=Option:  -a<xa>,<ya>,<ha>   Anemometer position (m)\n
+_help03_=         -B<WindLib> Name (including path) of wind field library\n
+_help04_=         -f<AKTerm>  Name of AKTerm\n
+_help05_=         -l<l>       Create file WETLIB.DEF\n
+_help06_=                     <l>= number of wind directions (2 or 36)\n
+_help07_=         -m<month>   Time series for <month> \n
+_help08_=         -s<seed>    Start value of random number generator\n
+_help09_$_=         -u<umin>    Minimum value of wind speed, standard: %1.1f m/s\n
+_help10_$$_=         -z<z0>,<d0> Z0 and D0 (m), standard: %1.1f, %1.1f\n
+_inconsistent_calms_$_=\nWarning: %d lines with ua=0/ra>0 or ua>0/ra=0 (ua=0 required for calms)\n\n
+

@@ -1,0 +1,22 @@
+# default strings for TalMon
+# last change 2008-07-28 lj
+#
+_internal_error_=Internal error!
+_cant_read_$_=Can't read file \"%s\"!
+_inconsistent_structure_=Inconsistent data structure!
+_cant_write_$_=Can't write file \"%s\"!
+_evaluation_t_=Evaluation for monitor points:
+_evaluation_u_===============================
+_total_load_t_= Total load
+_total_load_u_============
+_additional_load_t_= Additional load
+_additional_load_u_=================
+_point_=POINT   
+_$_inconsistent_dimensions_=File \"%s\" has inconsistent dimensions!
+_$_incompatible_structure_$_=Time series \"%s\" has incompatible structure (%d)!
+_no_concentration_$_=TMO: No concentration values for \"%s\" found!
+_time_series_$_=TMO: Time series at monitor points for \"%s\"
+_$$_written_=TMO: File \"%s%s\" written.
+_error_calculation_=Error in calculation of time series!
+_error_writing_=Error in writing the time series!
+

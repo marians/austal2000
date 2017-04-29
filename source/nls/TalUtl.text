@@ -1,0 +1,5 @@
+# default strings for TalUtl
+# last change 2008-07-28 lj
+#
+_clear_all_$_=All files in \"%s\" will be deleted. Continue? (y/n): 
+_approve_=yY

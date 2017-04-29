@@ -1,0 +1,83 @@
+# default strings for TalPrf
+# last change 2011-04-06 uj
+#
+_internal_error_=Internal error!
+_improper_dimensions_=Improper dimensions!
+_incomplete_header_=Incomplete header!
+_improper_grid_=Improper grid!
+_found_$$$_$_expected_$_=Found: zp(%d,%d,%d)=%12.6e, expected: %12.6e
+_invalid_wind_field_=Invalid wind field!
+_no_lib_=Missing wind field library!
+_no_wind_$_=No wind velocity in \"%s\"!
+_improper_base_$$_$$_=Base fields %s and %s not suited for superposition (f1=%1.1f, f2=%1.1f)!
+_cant_read_$_=Can't read file\"%s\"!
+_improper_grid_$_=Improper grid in file \"%s\"!
+_no_wind_$$$_=Missing wind field \"w%sa%d%d\"!
+_no_diff_a_$$$_=Missing diffusion field \"k%sa%d%d\"!
+_no_diff_d_$$$_=Missing diffusion field \"k%sd%d%d\"!
+_no_turb_a_$$$_=Missing turbulence field \"v%sa%d%d\"!
+_no_turb_d_$$$_=Missing turbulence field \"v%sd%d%d\"!
+_no_vx_$$$_=Missing wind field \"vx%sa%d%d\"!
+_no_vy_$$$_=Missing wind field \"vy%sa%d%d\"!
+_no_zg_$$_=File \"zg%d%d\" not found!
+_no_zp_$$_=File \"zp%d%d\" not found!
+_lib_new_k_=Library fields \"new K\" used
+_lib_additional_k_=Library fields \"additional K\" used
+_grids_= (Grids 
+_lib_new_sig_=Library fields \"new Sigmas\" used
+_lib_additional_sig_=Library fields \"additional Sigmas\" used
+_lib_$_not_found_=Wind field in library \"%s\" not found!
+_invalid_name_$_=Invalid library name \"%s\"!
+_file_$_not_registered_=Unregistered library file \"%s\"!
+_empty_lib_$_=Library \"%s\" contains no usable wind fields!
+_missing_fields_$_$_=Library \"%s\" misses %d required fields!
+_no_wind_fields_$_=Library \"%s\" contains no wind fields!
+_file_$_not_found_=File \"%s\" not found!
+_improper_structure_$_=Improper structure of file \"%s\"!
+_anemometer_$$_outside_=Anemometer position (%1.1f,%1.1f) outside of all grids!
+_anemometer_height_=Anemometer above top layer of wind field!
+_improper_wind_field_$$_=Improper wind field %s (Va=%4.2lf)!
+_strange_field_$_=Field \"%s\" not associated with known grids!
+_$_undefined_=\"%s\" undefined!
+_$_element_size_$$_=File \"%s\": element size is %d, should be %d!
+_$_rank_$_=File \"%s\": rank is %d, should be 3!
+_$_i_range_$$_$$_=File \"%s\": i-range is %d..%d, should be %d..%d!
+_$_j_range_$$_$$_=File \"%s\": j-range is %d..%d, should be %d..%d!
+_$_k_range_$$_$$_=File \"%s\": k-range is %d..%d, should be %d..%d!
+_$_xmin_$$_=File \"%s\": Xmin is %10.6e, should be %10.6e!
+_$_ymin_$$_=File \"%s\": Ymin is %10.6e, should be %10.6e!
+_$_zscl_$$_=File \"%s\": Zscl is %10.6e, should be %10.6e!
+_$_delt_$$_=File \"%s\": Delta (Dd) is %10.6e, should be %10.6e!
+_$_count_sk_$_=File \"%s\": number of Sk-values less than %d!
+_$_sk_$_$$_=File \"%s\": Sk[%d] is %10.6e, should be %10.6e!
+_$_sscl_$$_=File \"%s\": Sscl is %10.6e, should be %10.6e!
+_cant_create_profile_=Can't create profile array!
+_invalid_mode_$_=Invalid profile mode (%d)!
+_cant_allocate_header_=Can't allocate header!
+_no_wind_field_$_=Wind field \"%s\" not available!
+_inconsistent_wind_$_=Wind field \"%s\" inconsistent!
+_improper_wind_$_=Improper wind field (|Vs| > %4.1lf)!
+_inconsistent_field_$_=Field \"%s\" inconsistent!
+_no_valdef_=Can't read VALDEF from header!
+_not_initialized_=PRF-server not initialized!
+_undefined_profile_=Undefined profile!
+_no_grid_parameter_=Can't get grid parameter!
+_no_grid_array_=Can't get grid array!
+_no_boundary_parameter_=Can't get boundary layer parameter!
+_no_boundary_array_=Can't get boundary layer array!
+_cant_allocate_buffer_=Can't allocate buffer!
+_cant_calculate_profile_=Can't calculate profile array!
+_cant_clear_profile_=Can't clear old profile array!
+_invalid_grid_type_$_=Net type %d not implemented!
+_cant_create_header_=Can't create array header!
+_cant_detach_=Can't detach table!
+_cant_update_$_$$_$$_=Can't update \"%s\" from [%s,%s] to [%s,%s]!
+_cant_attach_$_=Can't attach \"%s\"!
+_cant_print_=Can't get data for printing!
+_sfc_write_=Writing superposition factors to log file
+_sfc_read_$_=Applying superposition factors from file \"%s\"
+_sfc_cant_read_$_=Can't read file \"%s\" with superposition factors!
+_sfc_invalid_item_number_$_=Invalid number of items in SFC line (expected 9, found %d)!
+_sfc_no_line_=No SFC line with required start time found!
+_sfc_line_doesnt_match_$$$$$_$$$$$_=SFC line does not match (expected: %s %s %1.3f %1.0f %d, found: %s %s %1.3f %1.0f %d)!
+_using_hw_$$_=Using Hw=%1.2f instead of Ha=%1.2f for base field superposition

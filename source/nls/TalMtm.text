@@ -1,0 +1,21 @@
+# default strings for TalMtm.c
+# last change: 2008-08-26 lj
+#
+_file_$_written_=TMT: File \"%s\" written.
+_invalid_kref_=Invalid value of \"Kref\"!
+_internal_error_=Internal error!
+_inconsistent_data_=Inconsistent data structure!
+_invalid_array_=Improper array structure!
+_cant_create_array_=Can't create array!
+_no_results_for_$_=Missing results for substance \"%s\"!
+_gruppen_not_found_=Parameter \"groups\" not found in file header!
+_exceedings_changed_$_=TMT: Allowed exceedances changed to %d.
+_cant_write_array_=Can't write array!
+_unknown_option_$_=TalEval: Unknown option \"%s\" 
+_evaluation_$_=TMT: Evaluation of results for substance \"%s\"
+_$_daily_averages_$_=TMT: %ld daily averages (thereof invalid: %d)
+_cant_read_$_=Can't read file \"%s\"!
+_only_$_$_found_=Only %ld files out of %ld found!
+_error_maximum_=Error in calculation of the maximum value!
+_error_writing_=Error in writing the result!
+_worker_$_=TMT: Files created by %s.

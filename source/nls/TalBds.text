@@ -1,0 +1,39 @@
+# default strings for TalBds
+# last change 2008-07-28 lj
+#
+_internal_error_=Internal error!
+_cant_read_raster_$_=Can't read raster file \"%s\"!
+_invalid_raster_format_=Invalid file format for raster file!
+_cant_read_dz_=Can't read parameter dz from raster file header!
+_cant_read_x0_=Can't read parameter x0 from raster file header!
+_cant_read_y0_=Can't read parameter y0 from raster file header!
+_improper_x0_y0_=Absolute value of x0 and y0 must be less than 200000!
+_cant_read_dd_=Can't read parameter dd from raster file header!
+_invalid_value_raster_=Invalid number in body raster (not in the range [0,200])!
+_reading_bodies_=Reading file \"bodies.def\" ...
+_bodies_closed_matrix_$_=... bodies.def closed (body matrix %s).
+_bodies_closed_$_=... bodies.def closed (%d bodies found).
+_bodies_not_found_=File \"bodies.def\" not found!
+_bodies_incomplete_=Assignment part of \"bodies.def\" not found!
+_cant_allocate_buffer_=Can't allocate input buffer!
+_invalid_body_type_$_=Invalid body type \"%s\"!
+_cant_read_dmkp_=Can't read parameter DMKp!
+_cant_read_boxes_=Can't read list of boxes!
+_invalid_structure_$_=Invalid list structure at body %d!
+_empty_list_=Empty list of boxes!
+_cant_create_sldarr_=Can't create SLDarr.1!
+_cant_read_header_$_=Can't read tab header at body %d!
+_incosistent_count_$$$_=Inconsistent number of tab values at body %d (%d, should be: %d)!
+_undefines_value_body_$_=Undefined value at body %d!
+_cant_analyse_bodies_=Can't analyse file section of \"bodies.def\"!
+_cant_read_btype_=Can't read parameter BTYPE!
+_cant_resize_sldarr_=Can't resize SLDarr.1!
+_invalid_polygon_=Polygon requires at least 3 points!
+_cant_read_hb_=Can't read parameter HB of POLY!
+_invalid_hb_=Parameter HB must be non negative!
+_cant_read_cb_=Can't read parameter CB of POLY!
+_invalid_cb_=Parameter CB must be positive!
+_cant_read_name_=Can't read name!
+_not_initialized_=BDS not initialized!
+_cant_read_bodies_=Can't read bodies!
+

@@ -1,0 +1,6 @@
+# default strings for IBJtxt
+# last change 2008-07-28 lj
+#
+_allocation_failed_$_=TXT: Allocation of %d bytes failed!\n
+_inconsistent_length_=TXT: Inconsistent string length!\n
+
